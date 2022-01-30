@@ -1,0 +1,3 @@
+ghantaHere is the result : Hello, this is the 1st text file.
+,Hello, this is the 2nd file.Here is the result : Hello, this is the 1st text file.
+,Hello, this is the 2nd file.
